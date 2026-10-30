@@ -36,13 +36,14 @@ I'm a **Cybersecurity Analyst** in the making, currently pursuing a **Master of 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 **Security & Networking**
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP%2FIP-4B5563?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -73,7 +74,7 @@ I'm a **Cybersecurity Analyst** in the making, currently pursuing a **Master of 
 
 Deception-based monitoring system that captures SSH interactions, credentials, executed commands, and session timelines.
 
-`Python` `Cowrie` `Ubuntu` `JSON` `systemd`
+`Python` `Cowrie` `Ubuntu` `systemd`
 
 </td>
 <td width="50%" valign="top">
@@ -89,7 +90,11 @@ Large-scale movie rating analysis using the Hadoop ecosystem and Hive for distri
 </tr>
 </table>
 
-**Payment Gateway Security & Trust Analysis** — quantitative security research across leading Indian payment gateways (Paytm, PayU, CCAvenue), analyzing 2FA adoption, encryption, and user trust with 118 respondents.  
+### <a href="https://github.com/Gokulgk6/payment-gateway-security-analysis">Payment Gateway Security & Trust Analysis</a>
+**Security Research**
+
+Quantitative study of consumer security perceptions, fraud prevention, and trust across Indian payment gateways (Paytm, PayU, CCAvenue), analyzing 2FA adoption, encryption, and user trust with 118 respondents.
+
 `Security Research` `Quantitative Analysis` `Excel`
 
 ---
