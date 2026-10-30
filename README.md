@@ -90,12 +90,12 @@ Large-scale movie rating analysis using the Hadoop ecosystem and Hive for distri
 </tr>
 </table>
 
-### <a href="https://github.com/Gokulgk6/payment-gateway-security-analysis">Payment Gateway Security & Trust Analysis</a>
-**Security Research**
+### <a href="https://github.com/Gokulgk6/payment-gateway-security-analysis">Consumer Perception of Payment Security & Trust</a>
+**Academic Research (University of Madras, 2025)**
 
-Quantitative study of consumer security perceptions, fraud prevention, and trust across Indian payment gateways (Paytm, PayU, CCAvenue), analyzing 2FA adoption, encryption, and user trust with 118 respondents.
+Survey-based study of security and trust in CCAvenue, PayU, and Paytm across 118 users in the Chennai e-commerce sector, covering authentication, encryption, fraud protection, privacy, and service reliability.
 
-`Security Research` `Quantitative Analysis` `Excel`
+`Consumer Research` `Payment Security` `Excel` `Python`
 
 ---
 
